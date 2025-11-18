@@ -4,15 +4,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-
-| Proyecto            | Descripción                         | Tecnologías        |
-|---------------------|-----------------------------------|--------------------|
-| [Mi Pagina Web](https://naekirealxd.github.io/Naeki) | Página personal con diseño moderno y responsivo | HTML5, CSS, JavaScript |
-
-
----
-
 ## 🛠️ Tecnologías y herramientas
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
